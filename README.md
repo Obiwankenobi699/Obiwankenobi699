@@ -1,14 +1,19 @@
 <h1 align="center">🛸 Obi-Wan Dev-nobi 👨‍💻</h1>
 <h3 align="center">Just a Jedi learning full-stack & machine learning ⚔️</h3>
 
+<p align="center">
+  <img src="./215911.gif" alt="Rainy Hacker Room" width="800" />
+</p>
+
 ---
 
 ### 👋 About Me
 
 - 🌌 Exploring galaxies of **AI, ML**, and **Web Development**
 - 🧠 Currently building a deep learning model for **X-ray analysis**
+- 🐍 Python and JavaScript are my lightsabers
+- 🖤 Terminal > GUI
 - ⚡ Fun fact: I debug better under the influence of lo-fi music
-- 💬 Ask me about **React, Flask, FastAPI, or Star Wars lore**
 
 ---
 
@@ -24,16 +29,7 @@
 
 ---
 
-### 🌐 Connect With Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-
----
-
-### 📊 Galactic GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Obiwankenobi699&show_icons=true&theme=tokyonight&cache_seconds=60" />
