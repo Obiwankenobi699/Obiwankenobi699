@@ -1,5 +1,4 @@
 <h1 align="center">🛸 Obi-Wan Dev-nobi 👨‍💻</h1>
-<h3 align="center">Just a Jedi learning full-stack & machine learning ⚔️</h3>
 
 <p align="center">
   <img src="./215911.gif" alt="Rainy Hacker Room" width="800" />
