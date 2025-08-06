@@ -38,7 +38,7 @@
 
 ---
 
-### 🚀 Most Used Languages
+### 🚀 Most Used Language
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obiwankenobi699&layout=compact&theme=tokyonight" />
