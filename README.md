@@ -2,7 +2,7 @@
 <h3 align="center">Just a Jedi learning full-stack & machine learning ⚔️</h3>
 
 <p align="center">
-  <img src="./215911.gif" alt="Rainy Hacker Room" width="800" />
+  <img src="https://raw.githubusercontent.com/Obiwankenobi699/<your-repo>/main/215911.gif" alt="Rainy Hacker Room" width="800" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 
 - 🌌 Exploring galaxies of **AI, ML**, and **Web Development**
 - 🧠 Currently building a deep learning model for **X-ray analysis**
-- 🐍 Python and JavaScript are my lightsabers
-- 🖤 Terminal > GUI
+- 🐍 Python and JavaScript are my lightsabers  
+- 🖤 Terminal > GUI  
 - ⚡ Fun fact: I debug better under the influence of lo-fi music
 
 ---
@@ -49,3 +49,8 @@
 ### 🧩 Quote of the Day
 
 > _“The Force will be with you. Always.”_ — Obi-Wan Kenobi
+
+---
+
+### 👁️ Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=Obiwankenobi699&color=blue)
